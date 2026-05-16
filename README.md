@@ -109,18 +109,6 @@ npm run start
 
 ---
 
-## Screenshots
-
-Add screenshots of your application here.
-
-Example:
-
-```md
-![Homepage](./public/screenshot.png)
-```
-
----
-
 ## Author
 
 **Geleta Mulisa**
